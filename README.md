@@ -1,4 +1,4 @@
-![Hi Im Ashley Mojica](https://github.com/ashley-m0/ashley-m0/assets/84351491/a005620f-f66b-4203-a997-35fc4301a0d0)
+![Hi Im Ashley Mojica](https://github.com/ashley-m0/ashley-m0/assets/84351491/9e167a1d-a23e-45cc-8aea-a13c636b5417)
 
 I am a senior undergraduate student at the University of Central Florida majoring in Computer Science. 
 
