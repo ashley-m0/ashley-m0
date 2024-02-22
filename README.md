@@ -1,4 +1,13 @@
-### Hi there 👋
+![Hi Im Ashley Mojica](https://github.com/ashley-m0/ashley-m0/assets/84351491/a005620f-f66b-4203-a997-35fc4301a0d0)
+
+I am a senior undergraduate student at the University of Central Florida majoring in Computer Science. 
+
+## Current Projects:
+* NASA Distributed Observer Network (DON) Version 4.3
+
+## Past Projects:
+*
+
 
 <!--
 **ashley-m0/ashley-m0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
