@@ -2,8 +2,8 @@
 
 # About Me:
 * Senior Undergraduate Student at the University of Central Florida majoring in Computer Science
-* Accelerated Bachelor's to Master's Student in Computer Science at UCF (Learn more)
-* NSF Flit-Gap (Florida IT Graduation Attainment Program) Scholar
+* Accelerated Bachelor's to Master's Student in Computer Science at UCF ([Learn More!](https://www.ucf.edu/degree/computer-science-ms/accelerated-bs-to-ms/))
+* NSF Flit-Gap (Florida IT Graduation Attainment Program) Scholar ([Learn More!](https://flit-gap.org/))
 
 
 # Current Projects:
