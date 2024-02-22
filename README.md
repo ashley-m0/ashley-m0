@@ -1,12 +1,12 @@
 ![Hi Im Ashley Mojica](https://github.com/ashley-m0/ashley-m0/assets/84351491/9e167a1d-a23e-45cc-8aea-a13c636b5417)
 
-## About Me:
+# About Me:
 * Senior Undergraduate Student at the University of Central Florida majoring in Computer Science
 * Accelerated Bachelor's to Master's Student in Computer Science at UCF (Learn more)
 * NSF Flit-Gap (Florida IT Graduation Attainment Program) Scholar
 
 
-## Current Projects:
+# Current Projects:
 * __NASA Distributed Observer Network (DON) Version 4.3__
   * Project for Senior Design 1 & 2 at UCF, sponsored by the Florida Space Institute and NASA
   * Virtual environment to display large-scale simulation results for multiple parties to view and record simultaneously
@@ -19,7 +19,7 @@
 * __Medical Image Computing Research Project (tbd)__
 * __Database Full-Stack Development Project (tbd)__
 
-## Past Projects:
+# Past Projects:
 * __Bowling Game__
   * Project for Processes of Object-Oriented System Software course at UCF (COP 4331C)
   * 2D Bowling Game using Unity Game Engine
