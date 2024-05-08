@@ -8,6 +8,8 @@
 
 
 # Current Projects:
+
+# Past Projects:
 * __NASA Distributed Observer Network (DON) Version 4.3__
   * Project for Senior Design 1 & 2 at UCF, sponsored by the Florida Space Institute and NASA
   * Virtual environment to display large-scale simulation results for multiple parties to view and record simultaneously
@@ -17,10 +19,6 @@
     * Facilitated communication between the UCF team, the Florida Polytechnic University Team, and our sponsor
     * Developed the simulation view UI panels (objects list, cameras list, bookmarks list, media controller, and metadata)
     * Integrated the object list,  hide/show simulation object feature, and the metadata panel’s dynamic updating feature
-* __Medical Image Computing Research Project (tbd)__
-* __Database Full-Stack Development Project (tbd)__
-
-# Past Projects:
 * __Bowling Game__
   * Project for Processes of Object-Oriented System Software course at UCF (COP 4331C)
   * 2D Bowling Game using Unity Game Engine
